@@ -1,4 +1,4 @@
-# Dovaiv ג€” AI-Powered Torah Learning
+# Dovaiv AI-Powered Torah Learning
 
 [**Explore the live product ג†’**](https://www.dovaiv.com/)
 
