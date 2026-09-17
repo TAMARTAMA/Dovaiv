@@ -35,25 +35,25 @@ I contributed to building and evolving the production experience, with a focus o
 
 The user meets the concept immediately: choose a RabbAI, ask a question, and start learning.
 
-![Dovaiv landing page and quick-start flow](dovaiv-home.jpg)
+![Dovaiv landing page and quick-start flow](assets/dovaiv-home.jpg)
 
 ### 2. Learning modes and topic exploration
 
 Clear entry points for one-on-one learning, multi-RabbAI discussion, and category-based discovery.
 
-![Dovaiv learning modes and topics](dovaiv-study-options.jpg)
+![Dovaiv learning modes and topics](assets/dovaiv-study-options.jpg)
 
 ### 3. Suggested debate partners
 
 The product turns different rabbinic approaches into a structured, approachable discussion experience.
 
-![Dovaiv suggested debate partners](dovaiv-debates.jpg)
+![Dovaiv suggested debate partners](assets/dovaiv-debates.jpg)
 
 ### 4. Three ways to learn
 
 The platform explains the available learning paths and helps users choose the right one for their goal.
 
-![Dovaiv three learning paths](dovaiv-three-ways.jpg)
+![Dovaiv three learning paths](assets/dovaiv-three-ways.jpg)
 
 ## Live product
 
